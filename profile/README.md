@@ -90,6 +90,9 @@ convenience, never a dependency.
 
 ## Some snapshots 
 
+Proposed Logo:
+
+<img width="400" height="400" alt="MikroMile Green Basket Logo" src="https://github.com/user-attachments/assets/1cbb7415-698d-466f-9f88-a7128374d5a3" />
 
 | | |
 | :--- | :--- |
