@@ -88,6 +88,17 @@ convenience, never a dependency.
 - 🎉 **Maggi cases** deal — READY for pickup at "Hostel Gate A". Tanish's active trip is attached as the errand bridge.
 - No COMPLETED deals are pre-seeded — create your own via **Create Group Buy** (e.g. a COMPLETED one to populate "Past Deals"). Existing browsers re-seed automatically (seed key `mikromile_seeded_v5`).
 
+## Some snapshots 
+
+
+| | |
+| :--- | :--- |
+| <img width="1365" height="767" alt="Screenshot 2026-10-27 234950" src="https://github.com/user-attachments/assets/001f9e65-f675-4d92-b9d5-1a17e7ccbe93" /> | <img width="1365" height="767" alt="Screenshot 2026-10-27 235015" src="https://github.com/user-attachments/assets/a5598816-ac7e-456a-9e1d-488383a57c08" /> |
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/818d3305-7062-4f42-8f2b-a775e7cd6b1a" />
+
+
+
+
 ## Future Enhancements
 
 - [ ] MongoDB/Mongoose integration
